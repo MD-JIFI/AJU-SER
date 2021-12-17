@@ -1,7 +1,7 @@
 {
-  "name": "AJU-SER BOT",
-  "description": "ajuser bot build with nodejs",
-  "repository": "https://github.com/aju001/AJU-SER",
+  "name": "© 𝙏𝙊𝙓𝙄𝘾 ₪ 𝘼𝙇𝙀𝙓𝘼",
+  "description": "© 𝙏𝙊𝙓𝙄𝘾 ₪ 𝘼𝙇𝙀𝙓𝘼 bot build with nodejs",
+  "repository": "https://github.com/MD-JIFI/AJU-SER",
   "logo": "https://i.ibb.co/kQ98t1k/AJU.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
